@@ -1,7 +1,6 @@
 # How to open Google Colab Notebooks
 
-To be able to use Google Colab seemlesly with your Google Drive you should add it to registered applications.</br>
-(For those who doesn't have Google Account please register it here https://www.google.com/gmail/)
+To be able to use Google Colab seemlesly with your Google Drive you should add it to registered applications.
 
 1. Open your Google Drive and click right button of the mouse somewhere in a directory. Then click More->Connect more apps
 
@@ -28,3 +27,13 @@ Just click "Copy to Drive". Now it's totally your file.
 
 7. Also you can open it by url https://colab.research.google.com/ and took simple Tutorial on how to use it. On the left side you can find snippet diectory to use.
 Also you can reed my articel with usefull snippets for Google Colab: https://medium.com/machine-learning-world/useful-snippets-for-google-colaboratory-free-gpu-included-d976d6b3e6de
+
+## If you registered with not the google account
+
+1. Register a Google Account: https://www.google.com/gmail/
+
+2. Click Downdload and save it on your local machine
+
+![Connect more apps](https://github.com/learnml-today/object-detection-with-pytorch/blob/master/imgs/colab3.png?raw=true)
+
+3. Open https://colab.research.google.com/ on open modal window choose "Upload" and upload the downloaded file there.
