@@ -30,10 +30,4 @@ Also you can reed my articel with usefull snippets for Google Colab: https://med
 
 ## If you registered with not the google account
 
-1. Register a Google Account: https://www.google.com/gmail/
-
-2. Click Downdload and save it on your local machine
-
-![Connect more apps](https://github.com/learnml-today/object-detection-with-pytorch/blob/master/imgs/colab3.png?raw=true)
-
-3. Open https://colab.research.google.com/ on open modal window choose "Upload" and upload the downloaded file there.
+You will get invite link when course started. You should register Google Account and then use it logged in under that account.
